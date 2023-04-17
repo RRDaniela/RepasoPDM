@@ -1,16 +1,28 @@
-# repaso
+# Repaso para la materia de Programación de Dispositivos Móviles
 
-A new Flutter project.
+## Descripción
 
-## Getting Started
+<p align="justify">
+El propósito de la tarea es aplicar los temas vistos en clase, en el transcurso de las sesiones previas al examen, de esta forma servirá de práctica para estudiar antes de la evaluación parcial.
+Se requiere hacer una aplicación con diseño basado en lineamientos de material design, la cual aproveche de manera óptima el espacio en pantalla, además de mostrar al usuario una interfaz con la cual pueda interactuar y navegar dentro de la aplicación.
+</p>
 
-This project is a starting point for a Flutter application.
+## Lo que aprendí
 
-A few resources to get you started if this is your first Flutter project:
+<p align="justify">
+Recordé la forma en que se podían enviar información entre diferentes páginas.
+</p>
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Lo que me costó trabajo
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<p align="justify">
+Dado que el dialog es el que realiza el Navigator.push a la página 2 me costó un poco de trabajo regresar el dato de la página 2 a la 1 a través del dialog.
+</p>
+
+## Link al video de la app en funcionamiento
+
+<div align="center">
+<a href="https://youtube.com/shorts/KlfYPKDSVGU">
+<img src="https://img.youtube.com/vi/KlfYPKDSVGU/0.jpg" 
+alt="Video de la app"></a>
+</div>
